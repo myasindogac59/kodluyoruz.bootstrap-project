@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+  }
+  Body {
+    background-color: #E9ECEF;
+  }
+nav {
+  padding: 8px;
+  padding-left: 6px;
+}
+
+.a1 {
+  color:white;
+  font-size: 20px;
+  
+}
+.a2 {
+  color: white;
+  padding-left: 10px;
+  font-size: 20px;
+}
+.a3 {
+  color: white;
+  padding-left: 10px;
+  font-size: 20px;
+}
+.a4 {
+  color: white;
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+
+.logo1 {
+  float: right;
+  
+}
+button {
+  border-radius: 20px;
+  background-color:rgb(107, 105, 105);
+  border-style: solid;
+  border-color: rgb(245, 138, 120)rgb(151, 151, 224)rgb(112, 236, 139);
+}
+.center {
+    text-align: center;
+}
+.btn {
+    margin: 50px;
+    margin-top: 50px;
+    width: auto;
+}
+.ul {
+    margin: 50px;
+}
+
+.card-body {
+    background-color: rgb(182, 175, 175);
+}
+
+#copyright {
+    font-family: 'Times New Roman', Times, serif;
+}
+.text-danger {
+    margin: 0;
+    text-align:center;
+
+}
+.container {
+    text-align: center;
+}
+.footer {
+  background-color: rgb(137, 137, 137);
+}
+
+.card-1 {
+border-radius: 15px;
+
+}
+
+.card-2 {
+border-radius: 15px;
+}
+
+.card-3 {
+border-radius: 15px;
+
+}
+
+.card-4 {
+border-radius: 15px;
+}
+
+.card-5 {
+border-radius: 15px;
+}
+
+.card-6 {
+border-radius: 15px;
+}
